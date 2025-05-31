@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Himanshu Parate
 
-<!--
-**HimanshuP601/HimanshuP601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Red Team Specialist | Cybersecurity Enthusiast | Malware Dev**
 
-Here are some ideas to get you started:
+I'm a 3rd-year B.Tech Computer Science student with a deep interest in offensive security. I love building red team tools, analyzing malware, and breaking things to learn how they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Focus Areas
+- 🐍 Malware Development (C, Python)
+- 🧬 Reverse Engineering (ELF/PE formats, x64dbg, Ghidra)
+- ⚔️ Red Team Tool Building (Shellcode Loaders, Process Injection)
+- 🛡️ Bug Bounty and CTFs (TryHackMe, Hack The Box)
+- 🎮 Game Modding (DLL & AOB injection)
+
+## 🚀 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [Red Team Toolkit](https://github.com/HimanshuP601/red-team-journey) | Custom offensive tools: shellcode loaders, injectors, keyloggers |
+| [Basic Malware Simulations](#) | Safe malware behavior testing in a lab |
+| [Recon & Bounty Toolkit](#) | Recon tools/scripts for web testing |
+
+## 📫 Contact Me
+- 📧 Email: 2022bcs056@sggs.ac.in
+- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-parate-6582452b1/)
