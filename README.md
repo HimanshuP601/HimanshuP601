@@ -17,17 +17,7 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [🔧 Red Team Toolkit](https://github.com/HimanshuP601/red-team-journey) | Custom offensive tools: shellcode loaders, injectors, keyloggers |
-| [🦠 Manual Shellcode (PEB → WinExec)](https://github.com/HimanshuP601/ManualShellcodePEB) | Shellcode resolving APIs manually using PEB without imports |
-| [🛡️ Recon & Bounty Scripts](https://github.com/HimanshuP601/recon-tools) | Recon automation scripts for bug bounty & asset discovery |
-| [🕵️ Malware Lab](https://github.com/HimanshuP601/malware-lab) | Safe environment for simulating malware behavior & analysis |
-| [🎮 Game Hack Practice](https://github.com/HimanshuP601/game-mods) | DLL & AOB injection-based modding projects for games |
-
----
 
 ## ✍️ Articles & Writing
 
