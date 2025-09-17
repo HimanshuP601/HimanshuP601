@@ -44,12 +44,4 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 
 ## 🧭 Currently Working On
 - **Working on:** [pwn.college](https://pwn.college/welcome/) at pwn.college
-
-<!--ACTIVITY-START-->
-- Solved **'Return-to-libc'** on pwn.college (2025-09-17 13:33)
-- Completed **'Binary Exploitation Basics'** on PicoCTF (2025-09-17 13:33)
-- Published blog: [PEB to WinExec](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) (2025-09-17 13:33)
-- Built a **Process Hollowing PoC Tool** (2025-09-17 13:33)
-<!--ACTIVITY-END-->
-
 ---
