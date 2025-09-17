@@ -42,4 +42,11 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 
 ---
 
+## 🛰️ Recent Activity
+Here's what I've been working on recently:
 
+<!--ACTIVITY-START-->
+- Waiting for updates...
+<!--ACTIVITY-END-->
+
+---
