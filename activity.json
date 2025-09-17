@@ -1,5 +1,11 @@
 [
   {
+    "time": "02:17 PM",
+    "site": "medium.com",
+    "title": "From PEB to WinExec: Manual Shellcode Execution Without Imports on Windows x64 | by Himanshu Parate | Medium",
+    "url": "https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d"
+  },
+  {
     "time": "02:15 PM",
     "site": "pwn.college",
     "title": "pwn.college",

@@ -45,21 +45,12 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 ## 🧭 Currently Working On
 <!--ACTIVITY-START-->
 
-<div align="center">
-
-<img src="./assets/activity_card.svg" alt="Activity card" />
-
-<details>
-<summary><strong>Recent activity (click to expand)</strong></summary>
-
 | Time | Site | Link |
 |------|------|------|
-| 02:15 PM | <img src="https://www.google.com/s2/favicons?sz=64&domain=pwn.college" width="16" height="16"> **pwn.college** | [pwn.college](https://pwn.college/welcome/welcome/) |
-| 02:11 PM | <img src="https://www.google.com/s2/favicons?sz=64&domain=medium.com" width="16" height="16"> **medium.com** | [From PEB to WinExec: Manual Shellcode Execution Without Imp…](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) |
-| 02:10 PM | <img src="https://www.google.com/s2/favicons?sz=64&domain=pwn.college" width="16" height="16"> **pwn.college** | [pwn.college](https://pwn.college/welcome/welcome/) |
-
-</details>
-</div>
+| 02:17 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [From PEB to WinExec: Manual Shellcode Execution W…](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) |
+| 02:15 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/welcome/welcome/) |
+| 02:11 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [From PEB to WinExec: Manual Shellcode Execution W…](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) |
+| 02:10 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/welcome/welcome/) |
 
 <!--ACTIVITY-END-->
 ---
