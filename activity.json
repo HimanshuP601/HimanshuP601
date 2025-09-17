@@ -1,5 +1,11 @@
 [
   {
+    "time": "02:42 PM",
+    "site": "chatgpt.com",
+    "title": "Previous data summary",
+    "url": "https://chatgpt.com/?model=auto"
+  },
+  {
     "time": "02:41 PM",
     "site": "github.com",
     "title": "HimanshuP601 (Himanshu)",
@@ -22,11 +28,5 @@
     "site": "www.corelan.be",
     "title": "..:: Corelan Cybersecurity Research ::..Corelan Cybersecurity Research",
     "url": "https://www.corelan.be/"
-  },
-  {
-    "time": "02:34 PM",
-    "site": "pwn.college",
-    "title": "pwn.college",
-    "url": "https://pwn.college/welcome/welcome/"
   }
 ]
