@@ -43,5 +43,5 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 ---
 
 ## 🧭 Currently Working On
-- **Working on:** [pwn.college](https://pwn.college/welcome/) at pwn.college
+- **Working on:** [From PEB to WinExec: Manual Shellcode Execution Without Imports on Windows x64 | by Himanshu Parate | Medium](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) at medium.com
 ---
