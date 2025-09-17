@@ -1,6 +1,12 @@
 [
   {
     "time": "06:33 PM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
+    "time": "06:33 PM",
     "site": "discord.com",
     "title": "(39) Discord | #\u300e\ud83d\udcbb\u300f\ud835\ude41\ud835\ude50\ud835\ude49\ud835\ude3e\ud835\ude44\ud835\ude4a\ud835\ude49\ud835\ude40 | PANEL SAFE",
     "url": "https://discord.com/channels/1218333924053352519/1218346026705096764"
@@ -22,11 +28,5 @@
     "site": "medium.com",
     "title": "From PEB to WinExec: Manual Shellcode Execution Without Imports on Windows x64 | by Himanshu Parate | Medium",
     "url": "https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d"
-  },
-  {
-    "time": "02:44 PM",
-    "site": "ctftime.org",
-    "title": "CTFtime.org / All about CTF (Capture The Flag)",
-    "url": "https://ctftime.org/"
   }
 ]
