@@ -47,11 +47,11 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 
 | Time | Site | Link |
 |------|------|------|
+| 06:33 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=onedrive.live.com' width='16' height='16'> **onedrive.live.com** | [Microsoft OneDrive](https://onedrive.live.com/login) |
 | 06:33 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=search.brave.com' width='16' height='16'> **search.brave.com** | [onerdrive - Brave Search](https://search.brave.com/search?q=onerdrive&source=desktop) |
 | 06:33 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 06:33 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(39) Discord | #『💻』𝙁𝙐𝙉𝘾𝙄𝙊𝙉𝙀 | PANEL SAFE](https://discord.com/channels/1218333924053352519/1218346026705096764) |
 | 02:49 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=www.corelan.be' width='16' height='16'> **www.corelan.be** | [..:: Corelan Cybersecurity Research ::..Corelan C…](https://www.corelan.be/) |
-| 02:49 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [ChatGPT](https://chatgpt.com/c/68ca7b96-d970-8325-9c1a-198e6ea11f43) |
 
 <!--ACTIVITY-END-->
 ---
