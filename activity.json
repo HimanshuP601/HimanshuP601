@@ -1,5 +1,11 @@
 [
   {
+    "time": "07:52 PM",
+    "site": "medium.com",
+    "title": "Himanshu Parate \u2013 Medium",
+    "url": "https://medium.com/@HimanshuP601"
+  },
+  {
     "time": "06:37 PM",
     "site": "newtab",
     "title": "New tab",
@@ -22,11 +28,5 @@
     "site": "search.brave.com",
     "title": "onerdrive - Brave Search",
     "url": "https://search.brave.com/search?q=onerdrive&source=desktop"
-  },
-  {
-    "time": "06:33 PM",
-    "site": "discord.com",
-    "title": "(39) Discord | #\u300e\ud83d\udcbb\u300f\ud835\ude41\ud835\ude50\ud835\ude49\ud835\ude3e\ud835\ude44\ud835\ude4a\ud835\ude49\ud835\ude40 | PANEL SAFE",
-    "url": "https://discord.com/channels/1218333924053352519/1218346026705096764"
   }
 ]
