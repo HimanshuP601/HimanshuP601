@@ -1,6 +1,12 @@
 [
   {
     "time": "06:33 PM",
+    "site": "search.brave.com",
+    "title": "onerdrive - Brave Search",
+    "url": "https://search.brave.com/search?q=onerdrive&source=desktop"
+  },
+  {
+    "time": "06:33 PM",
     "site": "newtab",
     "title": "New tab",
     "url": "chrome://newtab/"
@@ -22,11 +28,5 @@
     "site": "chatgpt.com",
     "title": "ChatGPT",
     "url": "https://chatgpt.com/c/68ca7b96-d970-8325-9c1a-198e6ea11f43"
-  },
-  {
-    "time": "02:48 PM",
-    "site": "medium.com",
-    "title": "From PEB to WinExec: Manual Shellcode Execution Without Imports on Windows x64 | by Himanshu Parate | Medium",
-    "url": "https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d"
   }
 ]
