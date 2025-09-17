@@ -1,6 +1,12 @@
 [
   {
     "time": "06:36 PM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
+    "time": "06:36 PM",
     "site": "onedrive.live.com",
     "title": "Desktop - OneDrive",
     "url": "https://onedrive.live.com/?id=%2Fpersonal%2F86ecfde19079e4bd%2FDocuments%2FDesktop&view=0"
@@ -16,12 +22,6 @@
     "site": "search.brave.com",
     "title": "onerdrive - Brave Search",
     "url": "https://search.brave.com/search?q=onerdrive&source=desktop"
-  },
-  {
-    "time": "06:33 PM",
-    "site": "newtab",
-    "title": "New tab",
-    "url": "chrome://newtab/"
   },
   {
     "time": "06:33 PM",
