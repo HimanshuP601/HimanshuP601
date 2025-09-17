@@ -47,7 +47,7 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 
 | Time | Site | Link |
 |------|------|------|
-| 06:32 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(48) Discord | #kernel-exploitation | pwn.college](https://discord.com/channels/1218333924053352519/1218347390462070907) |
+| 06:32 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(48) Discord | #『📙』𝙑𝙀𝙉𝙏𝘼-𝘿𝙀-𝘾𝙐𝙀𝙉𝙏𝘼 | PANEL SAFE](https://discord.com/channels/1218333924053352519/1218343444204883968) |
 | 02:49 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=www.corelan.be' width='16' height='16'> **www.corelan.be** | [..:: Corelan Cybersecurity Research ::..Corelan C…](https://www.corelan.be/) |
 | 02:49 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [ChatGPT](https://chatgpt.com/c/68ca7b96-d970-8325-9c1a-198e6ea11f43) |
 | 02:48 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [From PEB to WinExec: Manual Shellcode Execution W…](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) |
