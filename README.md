@@ -43,13 +43,6 @@ I’m a passionate cybersecurity learner with hands-on experience in red team to
 ---
 
 ## 🧭 Currently Working On
-
-<div align="center">
-
-| ⏱️ Time | 🌐 Site | 🔗 Link |
-|---------|---------|---------|
-| **02:11 PM** | **medium.com** | [Link](https://medium.com/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d) |
-| **02:10 PM** | **pwn.college** | [Link](https://pwn.college/welcome/welcome/) |
-
-
-</div>
+<!--ACTIVITY-START-->
+<!--ACTIVITY-END-->
+---
