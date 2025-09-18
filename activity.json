@@ -1,6 +1,12 @@
 [
   {
     "time": "01:15 PM",
+    "site": "ctftime.org",
+    "title": "CTFtime.org / All about CTF (Capture The Flag)",
+    "url": "https://ctftime.org/"
+  },
+  {
+    "time": "01:15 PM",
     "site": "newtab",
     "title": "New tab",
     "url": "chrome://newtab/"
@@ -22,11 +28,5 @@
     "site": "onedrive.live.com",
     "title": "Desktop - OneDrive",
     "url": "https://onedrive.live.com/?id=%2Fpersonal%2F86ecfde19079e4bd%2FDocuments%2FDesktop&view=0"
-  },
-  {
-    "time": "06:36 PM",
-    "site": "login.live.com",
-    "title": "Get a code to sign in",
-    "url": "https://login.live.com/ppsecure/post.srf?username=himanshuparate1528%40outlook.com&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&id=250206&uaid=991b4338c65d4906a2b27dc639db677a&pid=0&opid=5D1B6FEAD5BDAB9D&route=C536_BAY"
   }
 ]
