@@ -1,5 +1,11 @@
 [
   {
+    "time": "12:46 AM",
+    "site": "github.com",
+    "title": "GitHub",
+    "url": "https://github.com/"
+  },
+  {
     "time": "12:19 AM",
     "site": "discord.com",
     "title": "(41) Discord | #core-material-forum | pwn.college",
@@ -22,11 +28,5 @@
     "site": "newtab",
     "title": "New tab",
     "url": "chrome://newtab/"
-  },
-  {
-    "time": "12:39 AM",
-    "site": "chatgpt.com",
-    "title": "Fix bytes split error",
-    "url": "https://chatgpt.com/c/68c86a1e-f04c-8333-9bff-e71697d51087"
   }
 ]
