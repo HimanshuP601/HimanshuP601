@@ -1,6 +1,12 @@
 [
   {
     "time": "11:10 PM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
+    "time": "11:10 PM",
     "site": "jakob-bagterp.github.io",
     "title": "How to Use RGB Colors in ANSI Escape Codes - Colorist for Python \ud83c\udf08",
     "url": "https://jakob-bagterp.github.io/colorist-for-python/ansi-escape-codes/rgb-colors/#examples"
@@ -22,11 +28,5 @@
     "site": "www.reddit.com",
     "title": "Anyone doing pwn.college reverse engineering challenges?? : r/ExploitDev",
     "url": "https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/"
-  },
-  {
-    "time": "10:24 PM",
-    "site": "search.brave.com",
-    "title": "pwn college cimg - Brave Search",
-    "url": "https://search.brave.com/search?q=pwn+college+cimg&source=desktop"
   }
 ]
