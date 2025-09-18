@@ -77,5 +77,10 @@ hobbies:
 ## 🧭 Currently Working On
 
 <!--ACTIVITY-START-->
+
+| Time | Site | Link |
+|------|------|------|
+| 01:58 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601/my-first-steps-into-cybersecurity-21e2a14e06a4?source=user_profile_page---------0-------------8579860bd55c----------------------) |
+
 <!--ACTIVITY-END-->
 ---
