@@ -4,7 +4,7 @@
 </p>
 
 
-```bash
+```asm
 name: Himanshu Parate
 located_in: India
 from: Nagpur, Maharashtra
