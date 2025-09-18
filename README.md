@@ -4,20 +4,37 @@
 </p>
 
 
-```yaml
+```bash
 name: Himanshu Parate
 located_in: India
 from: Nagpur, Maharashtra
-role: Security Researcher | Red Team Developer | Malware Analyst
+role: >
+  Security Researcher |
+  Red Team Developer |
+  Malware Analyst
 education:
   - "Bachelor's in Computer Science and Engineering (Pursuing)"
 
-current_focus: Offensive Security, Reverse Engineering, Red Teaming
-company: "Student / Independent Security Researcher"
+current_focus: >
+  Offensive Security, Reverse Engineering,
+  Red Teaming
+company: Student / Independent Security Researcher
 past_experiences:
-  - ["Malware Developer", "Custom Shellcode, Process Injection, Loader Dev", "Personal Projects", "Remote", "2024-2025"]
-  - ["Reverse Engineer", "Binary Analysis, API Hooking, Evasion Techniques", "CTF & Research Work", "Remote", "2024"]
-  - ["Bug Bounty Hunter", "Web App Pentesting, Recon Automation", "Various Platforms", "Remote", "2023-Present"]
+  - role: Malware Developer
+    details: Custom Shellcode, Process Injection, Loader Dev
+    project_type: Personal Projects
+    location: Remote
+    period: 2024-2025
+  - role: Reverse Engineer
+    details: Binary Analysis, API Hooking, Evasion Techniques
+    project_type: CTF & Research Work
+    location: Remote
+    period: 2024
+  - role: Bug Bounty Hunter
+    details: Web App Pentesting, Recon Automation
+    project_type: Various Platforms
+    location: Remote
+    period: 2023-Present
 
 fields_of_interests:
   - Offensive Security
@@ -42,19 +59,21 @@ currently_learning:
   - Kernel Development
   - Cloud Security
 
-will_learn:
-  - AI in Offensive Security
-  - Hardware Hacking
 
 hobbies:
   - Capture The Flag (CTF)
   - Writing Security Blogs
   - Playing Tactical FPS Games
   - Building Custom Tools
+
 ```
+### 🥷 Red Team & CTF Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
-## 😇 Latest Medium Articles
+### 😇 Latest Medium Articles
 
 <!-- MEDIUM-START -->
 
@@ -69,7 +88,7 @@ hobbies:
 <!-- MEDIUM-END -->
 
 
-## 🤝 Contact Me
+### 🤝 Contact Me
 <p align="center">
   <a href="mailto:himanshuparate601@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshuparate/"><img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
