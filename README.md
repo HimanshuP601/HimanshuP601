@@ -168,7 +168,7 @@ HTML                     1 repo              ██████░░░░░�
 | 09:38 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
-| 09:51 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [Learning stripped binaries](https://chatgpt.com/?model=auto) |
+| 09:51 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [ChatGPT](https://chatgpt.com/c/68cc3194-aefc-832f-bb4b-83d9ec0bf510) |
 
 <!--ACTIVITY-END-->
 </div>
