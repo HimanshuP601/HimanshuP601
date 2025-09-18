@@ -52,15 +52,6 @@ hobbies:
   - Playing Tactical FPS Games
   - Building Custom Tools
 ```
----
-
-
-=======
-## 📊 Repository Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
-</p>
 
 ---
 
