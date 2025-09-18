@@ -1,57 +1,111 @@
-# 👋 Hi, I'm Himanshu Parate
-
-🎯 **Final-Year B.Tech CSE | Red Teaming | Malware Development | Offensive Security Enthusiast**
-
-I’m a passionate cybersecurity learner with hands-on experience in red team tooling, reverse engineering, malware analysis, and CTFs. I break things to understand them — and sometimes, to build even stronger versions.
-
----
-
-## 🧰 Focus Areas
-
-- 🐍 Malware Development (C, Python, Shellcode Crafting)
-- 🧬 Reverse Engineering (PE/ELF formats, x64dbg, Ghidra)
-- 🧠 Manual Shellcode Execution (PEB, API Hashing, Windows Internals)
-- ⚔️ Red Team Tool Building (Process Injection, DLL Loaders, Keyloggers)
-- 🕸️ Bug Bounty & Recon Automation (Subdomain enum, web testing)
-- 🎮 Game Modding (DLL Injection, AOB scanning/mods)
+<!-- Banner -->
+<p align="center">
+  <img src="./images/github-header-banner.png" alt="Himanshu Parate Banner" width="100%" />
+</p>
 
 ---
 
+## 🧑‍💻 About Me
+Hi, I'm **Himanshu Parate**, a passionate **Security Researcher**, **Red Team Developer**, and **Malware Analyst** from **Nagpur, India**.
 
+I specialize in:
+- **Offensive Security**
+- **Reverse Engineering**
+- **Red Team Tooling**
 
-## ✍️ Articles & Writing
-
-- 📖 [Manual Shellcode Execution (DEV)](https://dev.to/himanshup601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-5ebc)
-- 🛠️ Ongoing writeups on red teaming & malware analysis
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: 2022bcs056@sggs.ac.in
-- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-parate-6582452b1/)
-- 🖥️ [GitHub](https://github.com/HimanshuP601)
+My journey revolves around exploring the depths of **malware development**, **exploit creation**, and **evasion techniques** to better understand how systems can be secured.
 
 ---
 
-## 🧭 Currently Exploring
-
-- Kernel-level development and detection evasion techniques  
-- UAC bypass, Process Hollowing, and AMSI Bypass  
-- Combining offensive tools with low-level system internals  
+## 🚧 Currently Working On
+- Building advanced **red team tools** for malware simulation and process injection.
+- Reverse engineering binaries and kernel-level research.
+- Writing blog posts to share my learning journey.
 
 ---
 
+## 🎓 Education
+- **Bachelor's in Computer Science and Engineering** *(Pursuing)*
+
+---
+
+## 💼 Past Experiences
+| Role | Focus Area | Organization | Location | Year |
+|------|------------|--------------|----------|------|
+| Malware Developer | Shellcode, Process Injection | Personal Projects | Remote | 2024-2025 |
+| Reverse Engineer | Binary Analysis, Evasion | CTF & Research Work | Remote | 2024 |
+| Bug Bounty Hunter | Web App Pentesting, Recon Automation | Various Platforms | Remote | 2023-Present |
+
+---
+
+## 🗂️ GitHub Repo Analytics
+> A breakdown of my repositories and their stats.
+
+<p align="center">
+  <img src="https://github-profile-repo-analytics.vercel.app/api/view?username=HimanshuP601&theme=dark&border_color=00FFD1&title_color=00FFD1" alt="GitHub Repo Analytics" width="90%"/>
+</p>
+
+---
+
+## 📰 Recent Medium Articles
+> My latest write-ups on security, red teaming, and reverse engineering.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Fields of Interest
+- Offensive Security  
+- Red Teaming  
+- Malware Development  
+- Reverse Engineering  
+- Exploit Development  
+- Detection Evasion  
+- Recon Automation  
+
+---
+
+## 🛠️ Technical Background
+- Windows Internals  
+- Linux Systems  
+- Binary Exploitation  
+- Shellcode Development  
+- Process Injection Techniques  
+- Low-Level Programming *(C, Assembly)*  
+- Automation Scripting *(Python, Bash)*  
+
+---
+
+## 🚀 Currently Learning
+- Advanced Malware Evasion  
+- Kernel Development  
+- Cloud Security  
+
+---
+
+## 🗓️ Will Learn
+- AI in Offensive Security  
+- Hardware Hacking  
+
+---
+
+## 🎮 Hobbies
+- Capture The Flag (CTF)  
+- Writing Security Blogs  
+- Playing Tactical FPS Games  
+- Building Custom Tools  
+
+---
+
+## 🤝 Contact Me
+<p align="center">
+  <a href="mailto:himanshuparate601@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshuparate/"><img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+
+---
 ## 🧭 Currently Working On
 <!--ACTIVITY-START-->
-
-| Time | Site | Link |
-|------|------|------|
-| 07:53 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [New story – Medium](https://medium.com/p/21e2a14e06a4/edit) |
-| 06:37 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
-| 06:36 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=onedrive.live.com' width='16' height='16'> **onedrive.live.com** | [Desktop - OneDrive](https://onedrive.live.com/?id=%2Fpersonal%2F86ecfde19079e4bd%2FDocuments%2FDesktop&view=0) |
-| 06:36 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=login.live.com' width='16' height='16'> **login.live.com** | [Get a code to sign in](https://login.live.com/ppsecure/post.srf?username=himanshuparate1528%40outlook.com&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&id=250206&uaid=991b4338c65d4906a2b27dc639db677a&pid=0&opid=5D1B6FEAD5BDAB9D&route=C536_BAY) |
-| 06:33 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=search.brave.com' width='16' height='16'> **search.brave.com** | [onerdrive - Brave Search](https://search.brave.com/search?q=onerdrive&source=desktop) |
-
 <!--ACTIVITY-END-->
 ---

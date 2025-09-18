@@ -1,0 +1,16 @@
+name: GitHub Repo Analytics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Repo Analytics
+        uses: FuseFairy/github-profile-repo-analytics@main
+        with:
+          username: HimanshuP601
+          token: ${{ secrets.GITHUB_TOKEN }}
