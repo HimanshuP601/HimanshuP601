@@ -56,10 +56,10 @@ hobbies:
 ---
 
 ## 📰 Recent Medium Articles
-> My latest write-ups on security, red teaming, and reverse engineering.
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium//@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d" alt="Recent Article 0"> 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
 
 ---
 
