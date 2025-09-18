@@ -67,7 +67,7 @@ hobbies:
   - Building Custom Tools
 
 ```
-### 🥷 Red Team & CTF Activity
+#### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
 
@@ -78,7 +78,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-### 😇 Latest Medium Articles
+#### 😇 Latest Medium Articles
 
 <!-- MEDIUM-START -->
 
@@ -91,14 +91,8 @@ No activity tracked
 </a>
 
 <!-- MEDIUM-END -->
-
-
-### 🤝 Contact Me
-<p align="center">
-  <a href="mailto:himanshuparate601@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/himanshuparate/"><img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-## Live Actions!
+#### Live Actions!
 
 <!--ACTIVITY-START-->
 
@@ -112,3 +106,7 @@ No activity tracked
 
 <!--ACTIVITY-END-->
 
+<p align="center">
+  <a href="mailto:himanshuparate601@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/himanshuparate/">💼 LinkedIn</a>
+</p>
