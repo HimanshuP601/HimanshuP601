@@ -3,7 +3,7 @@
   <img src="./images/github-header-banner.png" alt="Himanshu Parate Banner" width="100%" />
 </p>
 
----
+
 ```yaml
 name: Himanshu Parate
 located_in: India
@@ -53,9 +53,8 @@ hobbies:
   - Building Custom Tools
 ```
 
----
 
-## 📝 Latest Medium Articles
+## 😇 Latest Medium Articles
 
 <!-- MEDIUM-START -->
 
@@ -70,20 +69,12 @@ hobbies:
 <!-- MEDIUM-END -->
 
 
----
-
-
-
-
-
 ## 🤝 Contact Me
 <p align="center">
   <a href="mailto:himanshuparate601@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshuparate/"><img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-
----
-## 🧭 Currently Working On
+## Live Actions!
 
 <!--ACTIVITY-START-->
 
@@ -97,4 +88,3 @@ hobbies:
 
 <!--ACTIVITY-END-->
 
----
