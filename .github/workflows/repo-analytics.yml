@@ -1,0 +1,49 @@
+name: Update Repo Analytics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Checkout analytics tool
+        uses: actions/checkout@v3
+        with:
+          repository: HimanshuP601/github-profile-repo-analytics
+          path: analytics
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          cd analytics
+          pip install -r requirements.txt
+
+      - name: Run analytics generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: YOUR_GITHUB_USERNAME
+        run: |
+          cd analytics
+          python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated Repo Analytics" || echo "No changes to commit"
+          git push
+

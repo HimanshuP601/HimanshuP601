@@ -54,12 +54,10 @@ hobbies:
 ```
 ---
 
-## 🗂️ GitHub Repo Analytics
-> A breakdown of my repositories and their stats.
-
-<p align="center">
-  <img src="https://github-profile-repo-analytics.vercel.app/api/view?username=HimanshuP601&theme=dark&border_color=00FFD1&title_color=00FFD1" alt="GitHub Repo Analytics" width="90%"/>
-</p>
+## 📊 Repository Analytics
+<!--START_REPO_ANALYTICS-->
+Loading...
+<!--END_REPO_ANALYTICS-->
 
 ---
 
@@ -71,7 +69,7 @@ hobbies:
 
 ---
 
-## Wakka Wakka
+
 
 
 
