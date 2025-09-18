@@ -164,11 +164,11 @@ HTML                     1 repo              ██████░░░░░�
 
 | Time | Site | Link |
 |------|------|------|
+| 10:24 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [Discord](https://discord.com/channels/750635557666816031/1032757437473763328) |
 | 10:23 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=www.reddit.com' width='16' height='16'> **www.reddit.com** | [Anyone doing pwn.college reverse engineering chal…](https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/) |
 | 10:24 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=search.brave.com' width='16' height='16'> **search.brave.com** | [pwn college cimg - Brave Search](https://search.brave.com/search?q=pwn+college+cimg&source=desktop) |
 | 10:04 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/intro-to-cybersecurity/reverse-engineering/) |
 | 10:22 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
-| 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601) |
 
 <!--ACTIVITY-END-->
 </div>
