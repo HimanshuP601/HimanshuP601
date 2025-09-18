@@ -1,6 +1,12 @@
 [
   {
     "time": "12:19 AM",
+    "site": "discord.com",
+    "title": "(41) Discord | #core-material-forum | pwn.college",
+    "url": "https://discord.com/channels/750635557666816031/1193137652908699668"
+  },
+  {
+    "time": "12:19 AM",
     "site": "www.reddit.com",
     "title": "Anyone doing pwn.college reverse engineering challenges?? : r/ExploitDev",
     "url": "https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/"
@@ -22,11 +28,5 @@
     "site": "chatgpt.com",
     "title": "ChatGPT",
     "url": "https://chatgpt.com/c/68cc4f28-7c2c-832b-88f2-0671391969d9"
-  },
-  {
-    "time": "11:47 PM",
-    "site": "mail.google.com",
-    "title": "All Mail - himanshuparate601@gmail.com - Gmail",
-    "url": "https://mail.google.com/mail/u/0/#all/FMfcgzQcpnNPJBQBbLTkHTvWhmdkgFdF"
   }
 ]
