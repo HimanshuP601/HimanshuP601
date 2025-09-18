@@ -1,5 +1,11 @@
 [
   {
+    "time": "12:56 AM",
+    "site": "chatgpt.com",
+    "title": "x86-64 assembly breakdown",
+    "url": "https://chatgpt.com/c/68ca683d-0ba4-8332-b576-2701ca5ee32c"
+  },
+  {
     "time": "12:46 AM",
     "site": "github.com",
     "title": "red-team-journey/02.Shellcode/notes at main \u00b7 HimanshuP601/red-team-journey",
@@ -22,11 +28,5 @@
     "site": "www.youtube.com",
     "title": "(64) YouTube",
     "url": "https://www.youtube.com/results?search_query=pwn+college+cimg"
-  },
-  {
-    "time": "12:18 AM",
-    "site": "newtab",
-    "title": "New tab",
-    "url": "chrome://newtab/"
   }
 ]
