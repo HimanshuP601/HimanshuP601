@@ -84,10 +84,6 @@ hobbies:
 
 ---
 ## 🧭 Currently Working On
-- **Working on:** [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) at ctftime.org
-
----
-
 
 <!--ACTIVITY-START-->
 
@@ -97,3 +93,5 @@ hobbies:
 | 04:05 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
 
 <!--ACTIVITY-END-->
+
+---
