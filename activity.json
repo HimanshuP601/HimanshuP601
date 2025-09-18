@@ -1,15 +1,15 @@
 [
   {
+    "time": "01:15 PM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
     "time": "01:14 PM",
     "site": "extensions",
     "title": "Extensions",
     "url": "chrome://extensions/"
-  },
-  {
-    "time": "01:14 PM",
-    "site": "newtab",
-    "title": "New tab",
-    "url": "chrome://newtab/"
   },
   {
     "time": "07:53 PM",
