@@ -4,7 +4,7 @@
 </p>
 
 
-```asm
+```yaml
 name: Himanshu Parate
 located_in: India
 from: Nagpur, Maharashtra
