@@ -1,5 +1,11 @@
 [
   {
+    "time": "11:46 PM",
+    "site": "mail.google.com",
+    "title": "All Mail - himanshuparate601@gmail.com - Gmail",
+    "url": "https://mail.google.com/mail/u/0/#all"
+  },
+  {
     "time": "11:12 PM",
     "site": "discord.com",
     "title": "(41) Discord | #core-material-forum | pwn.college",
@@ -22,11 +28,5 @@
     "site": "newtab",
     "title": "New tab",
     "url": "chrome://newtab/"
-  },
-  {
-    "time": "11:10 PM",
-    "site": "jakob-bagterp.github.io",
-    "title": "How to Use RGB Colors in ANSI Escape Codes - Colorist for Python \ud83c\udf08",
-    "url": "https://jakob-bagterp.github.io/colorist-for-python/ansi-escape-codes/rgb-colors/#examples"
   }
 ]
