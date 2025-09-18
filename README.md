@@ -4,38 +4,54 @@
 </p>
 
 ---
+```yaml
+name: Himanshu Parate
+located_in: India
+from: Nagpur, Maharashtra
+role: Security Researcher | Red Team Developer | Malware Analyst
+education:
+  - "Bachelor's in Computer Science and Engineering (Pursuing)"
 
-## 🧑‍💻 About Me
-Hi, I'm **Himanshu Parate**, a passionate **Security Researcher**, **Red Team Developer**, and **Malware Analyst** from **Nagpur, India**.
+current_focus: Offensive Security, Reverse Engineering, Red Teaming
+company: "Student / Independent Security Researcher"
+past_experiences:
+  - ["Malware Developer", "Custom Shellcode, Process Injection, Loader Dev", "Personal Projects", "Remote", "2024-2025"]
+  - ["Reverse Engineer", "Binary Analysis, API Hooking, Evasion Techniques", "CTF & Research Work", "Remote", "2024"]
+  - ["Bug Bounty Hunter", "Web App Pentesting, Recon Automation", "Various Platforms", "Remote", "2023-Present"]
 
-I specialize in:
-- **Offensive Security**
-- **Reverse Engineering**
-- **Red Team Tooling**
+fields_of_interests:
+  - Offensive Security
+  - Red Teaming
+  - Malware Development
+  - Reverse Engineering
+  - Exploit Development
+  - Detection Evasion
+  - Recon Automation
 
-My journey revolves around exploring the depths of **malware development**, **exploit creation**, and **evasion techniques** to better understand how systems can be secured.
+technical_background:
+  - Windows Internals
+  - Linux Systems
+  - Binary Exploitation
+  - Shellcode Development
+  - Process Injection Techniques
+  - Low-Level Programming (C, Assembly)
+  - Automation Scripts (Python, Bash)
 
----
+currently_learning:
+  - Advanced Malware Evasion
+  - Kernel Development
+  - Cloud Security
 
-## 🚧 Currently Working On
-- Building advanced **red team tools** for malware simulation and process injection.
-- Reverse engineering binaries and kernel-level research.
-- Writing blog posts to share my learning journey.
+will_learn:
+  - AI in Offensive Security
+  - Hardware Hacking
 
----
-
-## 🎓 Education
-- **Bachelor's in Computer Science and Engineering** *(Pursuing)*
-
----
-
-## 💼 Past Experiences
-| Role | Focus Area | Organization | Location | Year |
-|------|------------|--------------|----------|------|
-| Malware Developer | Shellcode, Process Injection | Personal Projects | Remote | 2024-2025 |
-| Reverse Engineer | Binary Analysis, Evasion | CTF & Research Work | Remote | 2024 |
-| Bug Bounty Hunter | Web App Pentesting, Recon Automation | Various Platforms | Remote | 2023-Present |
-
+hobbies:
+  - Capture The Flag (CTF)
+  - Writing Security Blogs
+  - Playing Tactical FPS Games
+  - Building Custom Tools
+```
 ---
 
 ## 🗂️ GitHub Repo Analytics
@@ -55,48 +71,9 @@ My journey revolves around exploring the depths of **malware development**, **ex
 
 ---
 
-## 🎯 Fields of Interest
-- Offensive Security  
-- Red Teaming  
-- Malware Development  
-- Reverse Engineering  
-- Exploit Development  
-- Detection Evasion  
-- Recon Automation  
+## Wakka Wakka
 
----
 
-## 🛠️ Technical Background
-- Windows Internals  
-- Linux Systems  
-- Binary Exploitation  
-- Shellcode Development  
-- Process Injection Techniques  
-- Low-Level Programming *(C, Assembly)*  
-- Automation Scripting *(Python, Bash)*  
-
----
-
-## 🚀 Currently Learning
-- Advanced Malware Evasion  
-- Kernel Development  
-- Cloud Security  
-
----
-
-## 🗓️ Will Learn
-- AI in Offensive Security  
-- Hardware Hacking  
-
----
-
-## 🎮 Hobbies
-- Capture The Flag (CTF)  
-- Writing Security Blogs  
-- Playing Tactical FPS Games  
-- Building Custom Tools  
-
----
 
 ## 🤝 Contact Me
 <p align="center">
