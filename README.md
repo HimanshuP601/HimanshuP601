@@ -84,11 +84,7 @@ hobbies:
 
 ---
 ## 🧭 Currently Working On
-## Latest Activity
-<!--ACTIVITY-START-->
-| Time | Site | Link |
-|------|------|------|
-_No recent activity_
-<!--ACTIVITY-END-->
 
+<!--ACTIVITY-START-->
+<!--ACTIVITY-END-->
 ---
