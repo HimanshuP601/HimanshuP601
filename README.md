@@ -55,12 +55,10 @@ hobbies:
 
 ---
 
-## 📰 Recent Medium Articles
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0" alt="My First Steps into Cybersecurity">
-</a>
+## 📝 Latest Medium Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<!-- MEDIUM-START -->
+<!-- MEDIUM-END -->
 
 
 ---
