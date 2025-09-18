@@ -1,5 +1,11 @@
 [
   {
+    "time": "12:19 AM",
+    "site": "www.youtube.com",
+    "title": "YouTube",
+    "url": "https://www.youtube.com/"
+  },
+  {
     "time": "12:18 AM",
     "site": "newtab",
     "title": "New tab",
@@ -22,11 +28,5 @@
     "site": "discord.com",
     "title": "(41) Discord | #core-material-forum | pwn.college",
     "url": "https://discord.com/channels/750635557666816031/1404996505865031761/threads/1416490375866224823"
-  },
-  {
-    "time": "11:14 PM",
-    "site": "www.reddit.com",
-    "title": "Reddit - The heart of the internet",
-    "url": "https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/"
   }
 ]
