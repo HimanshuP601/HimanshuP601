@@ -1,5 +1,11 @@
 [
   {
+    "time": "10:23 PM",
+    "site": "www.reddit.com",
+    "title": "Anyone doing pwn.college reverse engineering challenges?? : r/ExploitDev",
+    "url": "https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/"
+  },
+  {
     "time": "10:22 PM",
     "site": "search.brave.com",
     "title": "pwn college cimg - Brave Search",
@@ -22,11 +28,5 @@
     "site": "medium.com",
     "title": "Himanshu \u2013 Medium",
     "url": "https://medium.com/@HimanshuP601"
-  },
-  {
-    "time": "04:18 PM",
-    "site": "ctftime.org",
-    "title": "CTFtime.org / All about CTF (Capture The Flag)",
-    "url": "https://ctftime.org/"
   }
 ]
