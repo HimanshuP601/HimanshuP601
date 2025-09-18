@@ -1,5 +1,11 @@
 [
   {
+    "time": "09:38 PM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
     "time": "04:18 PM",
     "site": "medium.com",
     "title": "Himanshu \u2013 Medium",
@@ -22,11 +28,5 @@
     "site": "chatgpt.com",
     "title": "Dynamic GitHub profile updates",
     "url": "https://chatgpt.com/c/68ca669c-3464-832e-b30f-9e8dfd6f121f"
-  },
-  {
-    "time": "04:18 PM",
-    "site": "github.com",
-    "title": "HimanshuP601/HimanshuP601",
-    "url": "https://github.com/HimanshuP601/HimanshuP601"
   }
 ]
