@@ -92,8 +92,9 @@ No activity tracked
 
 <!-- MEDIUM-END -->
   
-#### Live Actions!
+<h4 align="center">🔥 Live Actions!</h4>
 
+<div align="center">
 <!--ACTIVITY-START-->
 
 | Time | Site | Link |
@@ -105,7 +106,7 @@ No activity tracked
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=github.com' width='16' height='16'> **github.com** | [HimanshuP601/HimanshuP601](https://github.com/HimanshuP601/HimanshuP601) |
 
 <!--ACTIVITY-END-->
-
+</div>
 <p align="center">
   <a href="mailto:himanshuparate601@gmail.com">📧 Email</a> |
   <a href="https://www.linkedin.com/in/himanshuparate/">💼 LinkedIn</a>
