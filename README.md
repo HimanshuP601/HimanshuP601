@@ -70,11 +70,76 @@ hobbies:
 #### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 44.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 240 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌆 Daytime                126 commits         █████████████░░░░░░░░░░░░   53.85 % 
+🌃 Evening                79 commits          ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Tuesday                  15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Wednesday                100 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
+Thursday                 61 commits          ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████████████████░░░░░░   75.00 % 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/09/2025 12:39:54 UTC
 <!--END_SECTION:waka-->
 
 
