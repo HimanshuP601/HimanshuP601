@@ -164,11 +164,11 @@ HTML                     1 repo              ██████░░░░░�
 
 | Time | Site | Link |
 |------|------|------|
+| 09:39 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/dojos) |
 | 09:38 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
 | 04:09 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [GitHub activity feed setup](https://chatgpt.com/c/68ca77ce-aa08-8326-89e1-b6498e9f6805) |
-| 04:09 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [Dynamic GitHub profile updates](https://chatgpt.com/c/68ca669c-3464-832e-b30f-9e8dfd6f121f) |
 
 <!--ACTIVITY-END-->
 </div>

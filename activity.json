@@ -1,5 +1,11 @@
 [
   {
+    "time": "09:39 PM",
+    "site": "pwn.college",
+    "title": "pwn.college",
+    "url": "https://pwn.college/dojos"
+  },
+  {
     "time": "09:38 PM",
     "site": "newtab",
     "title": "New tab",
@@ -22,11 +28,5 @@
     "site": "chatgpt.com",
     "title": "GitHub activity feed setup",
     "url": "https://chatgpt.com/c/68ca77ce-aa08-8326-89e1-b6498e9f6805"
-  },
-  {
-    "time": "04:09 PM",
-    "site": "chatgpt.com",
-    "title": "Dynamic GitHub profile updates",
-    "url": "https://chatgpt.com/c/68ca669c-3464-832e-b30f-9e8dfd6f121f"
   }
 ]
