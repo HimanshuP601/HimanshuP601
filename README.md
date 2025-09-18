@@ -164,7 +164,7 @@ HTML                     1 repo              ██████░░░░░�
 
 | Time | Site | Link |
 |------|------|------|
-| 09:40 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/intro-to-cybersecurity/access-control/) |
+| 09:49 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/intro-to-cybersecurity/access-control/) |
 | 09:38 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
