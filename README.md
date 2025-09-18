@@ -165,7 +165,7 @@ HTML                     1 repo              ██████░░░░░�
 | Time | Site | Link |
 |------|------|------|
 | 10:04 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/intro-to-cybersecurity/reverse-engineering/) |
-| 09:38 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
+| 10:22 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [Himanshu – Medium](https://medium.com/@HimanshuP601) |
 | 04:18 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
 | 10:05 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [ChatGPT](https://chatgpt.com/c/68cc34b1-cdb0-8329-9ca2-35f9537b65ab) |
