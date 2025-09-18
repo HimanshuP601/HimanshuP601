@@ -83,9 +83,7 @@ hobbies:
   
 
 ---
-## 📝 Latest Activities
-
-<!--ACTIVITY-START-->
-<!--ACTIVITY-END-->
+## 🧭 Currently Working On
+*Loading latest activity...*
 
 ---
