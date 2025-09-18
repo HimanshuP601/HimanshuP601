@@ -84,6 +84,6 @@ hobbies:
 
 ---
 ## 🧭 Currently Working On
-*Loading latest activity...*
+- **Working on:** [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) at ctftime.org
 
 ---
