@@ -84,15 +84,11 @@ hobbies:
 
 ---
 ## 🧭 Currently Working On
+## Latest Activity
 <!--ACTIVITY-START-->
-
 | Time | Site | Link |
 |------|------|------|
-| 01:15 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
-| 01:15 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
-| 01:14 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=extensions' width='16' height='16'> **extensions** | [Extensions](chrome://extensions/) |
-| 07:53 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=medium.com' width='16' height='16'> **medium.com** | [New story – Medium](https://medium.com/p/21e2a14e06a4/edit) |
-| 06:36 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=onedrive.live.com' width='16' height='16'> **onedrive.live.com** | [Desktop - OneDrive](https://onedrive.live.com/?id=%2Fpersonal%2F86ecfde19079e4bd%2FDocuments%2FDesktop&view=0) |
-
+_No recent activity_
 <!--ACTIVITY-END-->
+
 ---
