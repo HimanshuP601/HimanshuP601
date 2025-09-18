@@ -54,10 +54,9 @@ hobbies:
 ```
 ---
 
-## 📊 Repository Analytics
-<!--START_REPO_ANALYTICS-->
-Loading...
-<!--END_REPO_ANALYTICS-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
+</p>
 
 ---
 
