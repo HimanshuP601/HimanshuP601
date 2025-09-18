@@ -56,7 +56,9 @@ hobbies:
 ---
 
 ## 📰 Recent Medium Articles
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium//@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/from-peb-to-winexec-manual-shellcode-execution-without-imports-on-windows-x64-77d6589e804d" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0" alt="My First Steps into Cybersecurity">
+</a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
 
