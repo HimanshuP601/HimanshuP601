@@ -164,7 +164,7 @@ HTML                     1 repo              ██████░░░░░�
 
 | Time | Site | Link |
 |------|------|------|
-| 10:25 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(41) Discord | #kernel-exploitation | pwn.college](https://discord.com/channels/750635557666816031/1193137652908699668) |
+| 10:25 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(41) Discord | #intro-to-cybersecurity | pwn.coll…](https://discord.com/channels/750635557666816031/1193137652908699668) |
 | 10:23 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=www.reddit.com' width='16' height='16'> **www.reddit.com** | [Anyone doing pwn.college reverse engineering chal…](https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/) |
 | 10:24 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=search.brave.com' width='16' height='16'> **search.brave.com** | [pwn college cimg - Brave Search](https://search.brave.com/search?q=pwn+college+cimg&source=desktop) |
 | 10:04 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/intro-to-cybersecurity/reverse-engineering/) |
