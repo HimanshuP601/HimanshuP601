@@ -4,7 +4,7 @@
 
 | Time | Site | Link |
 |------|------|------|
-| 11:51 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [Create C file](https://chatgpt.com/c/68c6cd3b-00a4-8331-aed2-10ba6960e9cc) |
+| 11:52 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com' width='16' height='16'> **chatgpt.com** | [Chunking ANSI strings](https://chatgpt.com/c/68c66618-9a54-832e-ab0a-9e63d2ef472f) |
 | 11:47 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=mail.google.com' width='16' height='16'> **mail.google.com** | [All Mail - himanshuparate601@gmail.com - Gmail](https://mail.google.com/mail/u/0/#all/FMfcgzQcpnNPJBQBbLTkHTvWhmdkgFdF) |
 | 11:12 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(41) Discord | #core-material-forum | pwn.college](https://discord.com/channels/750635557666816031/1404996505865031761/threads/1416490375866224823) |
 | 11:14 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=www.reddit.com' width='16' height='16'> **www.reddit.com** | [Reddit - The heart of the internet](https://www.reddit.com/r/ExploitDev/comments/1mhngaa/anyone_doing_pwncollege_reverse_engineering/) |
