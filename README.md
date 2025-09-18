@@ -54,10 +54,10 @@ hobbies:
 ```
 ---
 
-<<<<<<< HEAD
+
 =======
 ## 📊 Repository Analytics
->>>>>>> 84de8b4 (Initial GitHub profile README setup)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
 </p>
