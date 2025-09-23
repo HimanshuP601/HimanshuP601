@@ -171,11 +171,11 @@ HTML                     1 repo              █████░░░░░░�
 
 | Time | Site | Link |
 |------|------|------|
+| 01:09 AM | <img src='https://www.google.com/s2/favicons?sz=64&domain=ctftime.org' width='16' height='16'> **ctftime.org** | [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/) |
 | 01:09 AM | <img src='https://www.google.com/s2/favicons?sz=64&domain=github.com' width='16' height='16'> **github.com** | [HimanshuP601/HimanshuP601](https://github.com/HimanshuP601/HimanshuP601) |
 | 01:08 AM | <img src='https://www.google.com/s2/favicons?sz=64&domain=pwn.college' width='16' height='16'> **pwn.college** | [pwn.college](https://pwn.college/dojos) |
 | 01:09 AM | <img src='https://www.google.com/s2/favicons?sz=64&domain=newtab' width='16' height='16'> **newtab** | [New tab](chrome://newtab/) |
 | 01:11 AM | <img src='https://www.google.com/s2/favicons?sz=64&domain=mail.google.com' width='16' height='16'> **mail.google.com** | [All Mail - himanshuparate601@gmail.com - Gmail](https://mail.google.com/mail/u/0/#all) |
-| 10:42 PM | <img src='https://www.google.com/s2/favicons?sz=64&domain=discord.com' width='16' height='16'> **discord.com** | [(41) Discord | #where-should-i-start | pwn.college](https://discord.com/channels/750635557666816031/877692964493750303) |
 
 <!--ACTIVITY-END-->
 </div>

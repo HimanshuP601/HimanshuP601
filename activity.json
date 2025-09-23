@@ -1,6 +1,12 @@
 [
   {
     "time": "01:09 AM",
+    "site": "ctftime.org",
+    "title": "CTFtime.org / All about CTF (Capture The Flag)",
+    "url": "https://ctftime.org/"
+  },
+  {
+    "time": "01:09 AM",
     "site": "github.com",
     "title": "HimanshuP601/HimanshuP601",
     "url": "https://github.com/HimanshuP601/HimanshuP601"
@@ -22,11 +28,5 @@
     "site": "mail.google.com",
     "title": "All Mail - himanshuparate601@gmail.com - Gmail",
     "url": "https://mail.google.com/mail/u/0/#all"
-  },
-  {
-    "time": "10:42 PM",
-    "site": "discord.com",
-    "title": "(41) Discord | #where-should-i-start | pwn.college",
-    "url": "https://discord.com/channels/750635557666816031/877692964493750303"
   }
 ]
