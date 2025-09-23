@@ -1,5 +1,11 @@
 [
   {
+    "time": "01:08 AM",
+    "site": "newtab",
+    "title": "New tab",
+    "url": "chrome://newtab/"
+  },
+  {
     "time": "01:11 AM",
     "site": "mail.google.com",
     "title": "All Mail - himanshuparate601@gmail.com - Gmail",
@@ -22,29 +28,5 @@
     "site": "search.brave.com",
     "title": "pwn college cimg - Brave Search",
     "url": "https://search.brave.com/search?q=pwn+college+cimg&source=desktop"
-  },
-  {
-    "time": "10:32 PM",
-    "site": "pwn.college",
-    "title": "pwn.college",
-    "url": "https://pwn.college/dojos"
-  },
-  {
-    "time": "01:07 AM",
-    "site": "chatgpt.com",
-    "title": "ChatGPT",
-    "url": "https://chatgpt.com/c/68cc5f53-6e40-8332-af5e-eb82394d7b27"
-  },
-  {
-    "time": "01:12 AM",
-    "site": "github.com",
-    "title": "HimanshuP601/HimanshuP601",
-    "url": "https://github.com/HimanshuP601/HimanshuP601"
-  },
-  {
-    "time": "01:08 AM",
-    "site": "discord.com",
-    "title": "(41) Discord | #getting-started-forum | pwn.college",
-    "url": "https://discord.com/channels/750635557666816031/1404995297909673985"
   }
 ]
