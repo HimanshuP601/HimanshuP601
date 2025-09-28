@@ -72,7 +72,7 @@ hobbies:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-362-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -147,7 +147,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 06:07:41 UTC
+ Last Updated on 28/09/2025 12:20:45 UTC
 <!--END_SECTION:waka-->
 
 
