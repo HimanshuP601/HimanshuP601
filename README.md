@@ -70,13 +70,13 @@ hobbies:
 #### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.8 kB Used in GitHub's Storage 
+> 📦 44.9 kB Used in GitHub's Storage 
  > 
 > 🏆 539 Contributions in the Year 2025
  > 
@@ -113,19 +113,19 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      8 hrs 46 mins       ███████████████████████░░   93.61 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C++                      7 hrs 23 mins       ███████████████████████░░   92.72 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Sublime Text             9 hrs 19 mins       █████████████████████████   99.53 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Sublime Text             7 hrs 55 mins       █████████████████████████   99.47 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 22 mins       █████████████████████████   100.00 % 
+Unknown Project          7 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +142,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:53:48 UTC
+ Last Updated on 02/10/2025 12:22:22 UTC
 <!--END_SECTION:waka-->
 
 
