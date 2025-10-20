@@ -70,13 +70,13 @@ hobbies:
 #### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.8 kB Used in GitHub's Storage 
+> 📦 44.9 kB Used in GitHub's Storage 
  > 
 > 🏆 539 Contributions in the Year 2025
  > 
@@ -140,7 +140,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 01:00:20 UTC
+ Last Updated on 20/10/2025 12:24:44 UTC
 <!--END_SECTION:waka-->
 
 
