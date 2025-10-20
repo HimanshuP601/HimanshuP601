@@ -70,7 +70,7 @@ hobbies:
 #### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.7%20thousand%20lines%20of%20code-blue)
 
@@ -113,17 +113,17 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 9 mins         █████████████████████████   100.00 % 
+C++                      5 mins              ██████████████████░░░░░░░   72.83 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   27.17 % 
 
 🔥 Editors: 
-(X86_64-Debian-Linux     1 hr 9 mins         █████████████████████████   100.00 % 
+Sublime Text             7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          48 mins             █████████████████░░░░░░░░   69.46 % 
-scrcpy                   21 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +140,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2025 12:21:18 UTC
+ Last Updated on 20/10/2025 01:00:20 UTC
 <!--END_SECTION:waka-->
 
 
