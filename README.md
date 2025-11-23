@@ -149,6 +149,10 @@ HTML                     1 repo              █████░░░░░░�
 
 <!-- MEDIUM-START -->
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@HimanshuP601/0" alt="Medium Article">
+</a>
+
 <!-- MEDIUM-END -->
   
 <h4 align="center">🔥 Live Actions!</h4>
