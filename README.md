@@ -70,7 +70,7 @@ hobbies:
 #### 🥷 Red Team & CTF Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.9%20thousand%20lines%20of%20code-blue)
 
@@ -145,7 +145,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HimanshuP601/HimanshuP601/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 01:02:47 UTC
+ Last Updated on 16/12/2025 12:27:58 UTC
 <!--END_SECTION:waka-->
 
 
